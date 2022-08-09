@@ -49,7 +49,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "awesome_print"
-
+gem "carrierwave"
 
 
 group :development, :test do
